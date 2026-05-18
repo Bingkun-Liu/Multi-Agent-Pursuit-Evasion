@@ -17,6 +17,11 @@ We modify the original `simple_tag` task in three main ways:
 
 The main conclusion is that communication can improve return over a no-communication baseline, but its benefit quickly saturates. In this near-fully observable environment, learned messages encode some prey-spatial information but are not strictly necessary for successful capture.
 
+## Project Report
+
+[Multi-Agent Pursuit-Evasion Report](Project_Report.pdf)
+
+
 ## Repository Map
 
 ```text
